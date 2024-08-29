@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+=======
+# Teste feito
+>>>>>>> a3f339467fe8306298184060d9ee255a1ce9b1f7
